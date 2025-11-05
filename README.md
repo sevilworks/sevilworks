@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevilworks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevilworks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sevilworks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=chartreuse-dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevilworks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -22,10 +22,10 @@
 
 <div>
     <a href="https://0xsevil.notion.site/0xSevil-27ba2ccb698280d588f3ebb445629f1b?pvs=74" target="_blank">
-        <img src="https://img.shields.io/badge/🎯_Pentest_Writeups-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=#000080" alt="Pentest Writeups" />
+        <img src="https://img.shields.io/badge/🎯_Pentest_Writeups-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=48850C" alt="Pentest Writeups" />
     </a>
     <a href="https://hackmyvm.eu/public/?u=Sevil" target="_blank">
-        <img src="https://img.shields.io/badge/🎯_Hack_My_Vm-000000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=FF0080" alt="Pentest Writeups" />
+        <img src="https://img.shields.io/badge/🎯_Hack_My_Vm-000000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=48850C" alt="Pentest Writeups" />
     </a>
 </div>
 <br>
@@ -34,16 +34,16 @@
 
  <div>
     <a href="https://linkedin.com/in/sevildoes" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-539E0D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/amen_amari" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-539E0D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://discord.com/users/sevil1318" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+        <img src="https://img.shields.io/badge/Discord-539E0D?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="mailto:esta3969@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-539E0D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </div>
 
