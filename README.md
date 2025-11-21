@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sevilworks&style=for-the-badge&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=sevilworks&style=for-the-badge&color=blue)
 
 
 <h2 align="left">Hi 👋! im Amen Amari, I go by Sevil </h2>
