@@ -1,3 +1,6 @@
+<div align="center">
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+</div>
 
 <h2 align="left">Hi 👋! im Amen Amari, I go by Sevil </h2>
 
